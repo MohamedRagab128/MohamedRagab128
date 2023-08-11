@@ -1,10 +1,6 @@
 - 👋 Hi, I’m @MohamedRagab128
-- 👀 I’m interested in Programming Full stack Developer 
-- 🌱 I’m currently learning Develop My Self
-- 💞️ I’m looking to collaborate on all work developer
-- 📫 How to reach me ...
-
-<!---
-MohamedRagab128/MohamedRagab128 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Driven Full Stack Developer with a passion for creating robust and
+user-friendly web applications. Committed to delivering high-quality
+code and continuously expanding technical skills. Seeking a
+challenging role to contribute expertise in front-end and back-end
+development to drive innovation and exceed client expectations.
